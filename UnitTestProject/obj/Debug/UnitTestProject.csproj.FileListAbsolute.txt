@@ -1,0 +1,15 @@
+C:\Users\manqo\OneDrive\Desktop\Angular Project\AngularAuth\IssueTrackerSolution\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\manqo\OneDrive\Desktop\Angular Project\AngularAuth\IssueTrackerSolution\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\manqo\OneDrive\Desktop\Angular Project\AngularAuth\IssueTrackerSolution\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\manqo\OneDrive\Desktop\Angular Project\AngularAuth\IssueTrackerSolution\UnitTestProject\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\manqo\OneDrive\Desktop\Angular Project\AngularAuth\IssueTrackerSolution\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Users\manqo\OneDrive\Desktop\Angular Project\AngularAuth\IssueTrackerSolution\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Users\manqo\OneDrive\Desktop\Angular Project\AngularAuth\IssueTrackerSolution\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\manqo\OneDrive\Desktop\Angular Project\AngularAuth\IssueTrackerSolution\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\manqo\OneDrive\Desktop\Angular Project\AngularAuth\IssueTrackerSolution\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\manqo\OneDrive\Desktop\Angular Project\AngularAuth\IssueTrackerSolution\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\manqo\OneDrive\Desktop\Angular Project\AngularAuth\IssueTrackerSolution\UnitTestProject\obj\Debug\UnitTestProject.csproj.AssemblyReference.cache
+C:\Users\manqo\OneDrive\Desktop\Angular Project\AngularAuth\IssueTrackerSolution\UnitTestProject\obj\Debug\UnitTestProject.csproj.CoreCompileInputs.cache
+C:\Users\manqo\OneDrive\Desktop\Angular Project\AngularAuth\IssueTrackerSolution\UnitTestProject\obj\Debug\UnitTestProject.csproj.CopyComplete
+C:\Users\manqo\OneDrive\Desktop\Angular Project\AngularAuth\IssueTrackerSolution\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Users\manqo\OneDrive\Desktop\Angular Project\AngularAuth\IssueTrackerSolution\UnitTestProject\obj\Debug\UnitTestProject.pdb
